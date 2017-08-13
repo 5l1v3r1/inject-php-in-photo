@@ -7,3 +7,5 @@
 # git clone https://github.com/X-Vector/php-injection.git
 # download in windows : 
 # https://github.com/X-Vector/php-injection/archive/master.zip
+# usage: python inject.py photo.jpg shell.php
+# video for proof : https://youtu.be/auGSZtyRapQ
