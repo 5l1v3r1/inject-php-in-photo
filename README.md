@@ -1,11 +1,16 @@
-# php-injection
-# you can inject php code in photo "jpg" by easy way
-# you must install paython 
-# X-Vector | Team of X-Fighter
-====================================================
-# download script in Linux : 
-# git clone https://github.com/X-Vector/php-injection.git
-# download in windows : 
-# https://github.com/X-Vector/php-injection/archive/master.zip
-# usage: python inject.py photo.jpg shell.php
-# video for proof : https://youtu.be/auGSZtyRapQ
+# Inject Php in photo
+- it's Small Script For Fun , you can inject php code in photo "jpg" Easly
+# Download in Linux : 
+```
+git clone https://github.com/X-Vector/php-injection.git
+```
+# Download in windows : 
+
+- [Click Here](https://github.com/X-Vector/php-injection/archive/master.zip)
+
+# Usage: 
+```
+python inject.py photo.jpg shell.php
+```
+- Coded By X-Vector
+- [Facebook](https://www.facebook.com/X.Vector1) - [Linkedin](https://www.linkedin.com/in/mohamed-abdelfatah-509b01149/) - [Twitter](https://twitter.com/@XVector11)
