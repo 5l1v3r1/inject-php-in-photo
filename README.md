@@ -6,7 +6,7 @@ git clone https://github.com/X-Vector/php-injection.git
 ```
 # Download in windows : 
 
-- [Click Here](https://github.com/X-Vector/php-injection/archive/master.zip)
+- [Click Here](https://github.com/X-Vector/inject-php-in-photo/archive/master.zip)
 
 # Usage: 
 ```
